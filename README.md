@@ -1,6 +1,8 @@
 ## Basic config scripts and other stuff
 Will contains script and configs for my laptop and other minor projects.
 
+
+```markdown
 # Header 1
 ## Header 2
 ### Header 3

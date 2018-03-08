@@ -1,13 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/fetafisken/super-waddle-pancake/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+## Basic config scripts and other stuff
+Will contains script and configs for my laptop and other minor projects.
 
 # Header 1
 ## Header 2
